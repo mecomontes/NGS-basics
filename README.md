@@ -153,4 +153,8 @@ alias gatk="$PWD/gatk-4.3.0.0/gatk"
 <pre><code>gatk --help
 </code></pre>
 <div align ="center "><img src='./images/gatk_check.png' alt='gatk_check' width="800"></div>
+<br/>
+<h3 align=left><font face="Arial"><b>Descargar el genóma de referencia: </b><a href="https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.26/">https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.26/</a>.</font></h3>
+
+
 
